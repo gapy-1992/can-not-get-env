@@ -1,0 +1,36 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_docs_intro --> navigate to Page_docs_intro
+step 3: Add visual checkpoint at Page_docs_intro",High
+3,"step 1: Navigate to Page_docs_setting-up-your-feed_filtering-content-feed
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_filtering-content-feed",Trivial
+6,"step 1: Navigate to Page_docs_for-content-creators_suggest-new-source
+step 2: Add visual checkpoint at Page_docs_for-content-creators_suggest-new-source",Trivial
+10,"step 1: Navigate to Page_docs_key-features_upvotes
+step 2: Add visual checkpoint at Page_docs_key-features_upvotes",Trivial
+8,"step 1: Navigate to Page_docs_key-features_community-picks
+step 2: Add visual checkpoint at Page_docs_key-features_community-picks",Trivial
+5,"step 1: Navigate to Page_docs_your-profile_activity
+step 2: Add visual checkpoint at Page_docs_your-profile_activity",Trivial
+9,"step 1: Navigate to Page_docs_how-does-daily-dev-work_reputation
+step 2: Add visual checkpoint at Page_docs_how-does-daily-dev-work_reputation",Trivial
+11,"step 1: Navigate to Page_docs_key-features_feeds
+step 2: Add visual checkpoint at Page_docs_key-features_feeds",Trivial
+4,"step 1: Navigate to Page_docs_squads_managing-your-squad
+step 2: Add visual checkpoint at Page_docs_squads_managing-your-squad",Trivial
+12,"step 1: Navigate to Page_docs_your-profile_reading-history
+step 2: Add visual checkpoint at Page_docs_your-profile_reading-history",Trivial
+16,"step 1: Navigate to Page_docs_customize-your-feed_layout
+step 2: Add visual checkpoint at Page_docs_customize-your-feed_layout",Trivial
+15,"step 1: Navigate to Page_docs_how-does-daily-dev-work_how-to-get-featured
+step 2: Add visual checkpoint at Page_docs_how-does-daily-dev-work_how-to-get-featured",Trivial
+14,"step 1: Navigate to Page_docs_key-features_the-companion
+step 2: Add visual checkpoint at Page_docs_key-features_the-companion",Trivial
+2,"step 1: Navigate to Page_docs_your-profile_account-details
+step 2: Add visual checkpoint at Page_docs_your-profile_account-details",Trivial
+13,"step 1: Navigate to Page_docs_key-features_pause-new-tab
+step 2: Add visual checkpoint at Page_docs_key-features_pause-new-tab",Trivial
+7,"step 1: Navigate to Page_docs_your-profile_devcard
+step 2: Add visual checkpoint at Page_docs_your-profile_devcard",Trivial
+17,"step 1: Navigate to Page_docs_squads_creating-your-squad
+step 2: Add visual checkpoint at Page_docs_squads_creating-your-squad",Trivial
